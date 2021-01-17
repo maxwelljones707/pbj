@@ -14,7 +14,7 @@ jelly = False
 success = False
 completed = False
 chosenStep = 0
-
+calories = 350 
 
 ##### functions #####
 
