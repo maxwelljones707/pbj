@@ -1,1 +1,6 @@
 calories=350
+
+Calories by Ingredient:
+- 2 slices of bread = 133
+- Peanut butter = 160
+- Jelly = 57
